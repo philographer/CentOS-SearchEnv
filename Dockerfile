@@ -1,4 +1,4 @@
-FROM yoohoogun114/centos7-searchenv
+FROM yoohoogun114/centos7-searchenv-origin
 MAINTAINER philographer <hogyun.yu@navercorp.com>
 LABEL Vendor="CentOS" \
       License=GPLv2
